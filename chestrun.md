@@ -1,5 +1,7 @@
 # Chestruns
 
+[[toc]]
+
 Source: https://incendar.com/newworld_elite_chest_runs_world_tours_guide.php
 
 ## Beds
