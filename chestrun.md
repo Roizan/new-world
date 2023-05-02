@@ -1,6 +1,14 @@
 # Chestruns
 
-Source: https://incendar.com/newworld_elite_chest_runs_world_tours_guide.php
+Sources: 
+* https://incendar.com/newworld_elite_chest_runs_world_tours_guide.php
+* https://newworld.wiki.fextralife.com/New+World+Wiki
+
+## Damage
+Slash, Thrust, Strike, and Elemental
+
+![grafik](https://user-images.githubusercontent.com/6178898/235665193-8ab1b776-e5c0-4eef-a4de-dcba4f83659e.png)
+
 
 ## Beds - Beds of Ta-Bit jet
 
