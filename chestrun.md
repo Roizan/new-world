@@ -4,9 +4,9 @@ Source: https://incendar.com/newworld_elite_chest_runs_world_tours_guide.php
 
 ## Beds - Beds of Ta-Bit jet
 
-Where: **Central Brimstone Sands**
+Where: **Central Brimstone Sands** // **Zentrale Schwefelsandwüste**
 
-Enemy **Beast**  
+Enemy **Beast** // **Bestien**  
 Weak **Thrust 20%**
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235657485-4222f275-f745-4262-a7d6-5fc0d5576b8b.png)
@@ -14,9 +14,9 @@ Weak **Thrust 20%**
 ![grafik](https://user-images.githubusercontent.com/6178898/235657506-f02a9c91-5c46-4871-a4e2-8534f2add392.png)
 
 ## Cast - Castrum Principium
-Where: **South-Western Brimstone Sands**
+Where: **South-Western Brimstone Sands** // **Südwesten Schwefelsandwüste**
 
-Enemy **Corrupted**  
+Enemy **Corrupted** // **Verderbte**  
 Weak **Arcane 30% - Thrust 20% - Nature 15%**
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235657579-96792acb-f247-42eb-9b56-29a3be9b1d72.png)
@@ -25,9 +25,9 @@ Weak **Arcane 30% - Thrust 20% - Nature 15%**
 
 ## Helios
 
-Where: **Central Brimstone Sands**
+Where: **Central Brimstone Sands** // **Zentrale Schwefelsandwüste**
 
-Enemy **Ancient**  
+Enemy **Ancient** // **Ahnen**   
 Weak **Lightning 30% Strike 20% Void 15%**
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235657682-35954303-f528-4fc9-8c9f-c4d10336517f.png)
@@ -36,9 +36,9 @@ Weak **Lightning 30% Strike 20% Void 15%**
 
 ## Imp - Imperial Palace
 
-Where: **West Coast of Ebonscale Reach**
+Where: **West Coast of Ebonscale Reach** // **Westküste Ebenmaß**
 
-Enemy **Corrupted**  
+Enemy **Corrupted** // **Verderbte**  
 Weak **Arcane 30% - Thrust 20% - Nature 15%**
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235657772-b5987ef3-d1a9-48f5-be4e-0327e8c3ea48.png)
@@ -49,7 +49,7 @@ Weak **Arcane 30% - Thrust 20% - Nature 15%**
 
 Where: **Central Brimstone Sands**
 
-Enemy **Ancient**  
+Enemy **Ancient**  // **Ahnen**    
 Weak **Lightning 30% Strike 20% Void 15%** 
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235657886-78893ee2-35fa-4d02-962e-c83a8cbd7989.png)
@@ -60,7 +60,7 @@ Weak **Lightning 30% Strike 20% Void 15%**
 
 Where: **Central Edengrove**  
 
-Enemy **Angry Earth**  
+Enemy **Angry Earth** // **Zornige Erdkreatur**   
 Weak **Fire 30% - Slash 20%**
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235658018-6cece893-153a-44aa-a98a-f6abce420c73.png)
@@ -72,7 +72,7 @@ Weak **Fire 30% - Slash 20%**
 
 Where: **Western Great Cleave** 
 
-Enemy **Corrupted**  
+Enemy **Corrupted** // **Verderbte**  
 Weak **Arcane 30% - Thrust 20% - Nature 15%**
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235658109-3807932c-86b7-45fe-8758-6098450736c4.png)
@@ -83,7 +83,7 @@ Weak **Arcane 30% - Thrust 20% - Nature 15%**
 
 Western Shattered Mountain
 
-Enemy **Corrupted**   
+Enemy **Corrupted** // **Verderbte**   
 Weak **Arcane 30% - Thrust 20% - Nature 15%**
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235658241-0a608bbc-bd93-4bff-ab15-cf57244f8308.png)
@@ -94,7 +94,7 @@ Weak **Arcane 30% - Thrust 20% - Nature 15%**
 
 Where: **Northern Shattered Mountain**
 
-Enemy **Corrupted**   
+Enemy **Corrupted** // **Verderbte**   
 Weak **Arcane 30% - Thrust 20% - Nature 15%**
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235658330-c9351eaf-0e4e-4d94-81f1-a64ae10beec7.png)
@@ -105,7 +105,7 @@ Weak **Arcane 30% - Thrust 20% - Nature 15%**
 
 Where: **Northern Reekwater**
 
-Enemy **Angry Earth**  
+Enemy **Angry Earth** // **Zornige Erdkreatur**  
 Weak **Fire 30% - Slash 20%**
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235658423-d71d2254-e86c-4f44-9d17-3e9b49038b1e.png)
@@ -117,7 +117,7 @@ Weak **Fire 30% - Slash 20%**
 Where: **North-Eastern Brimstone Sands (just west of wall)**  
 When: **NIGHT ONLY**  
 
-Enemy **Beast**  
+Enemy **Beast** // **Bestien**    
 Weak **Thrust 20%**
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235658499-315f4e32-56fc-4fb9-a186-99e644619d74.png)
@@ -128,7 +128,7 @@ Weak **Thrust 20%**
 
 Where: **Central Reekwater**  
 
-Enemy **Lost**  
+Enemy **Lost** // **Verlorene**  
 Weak **Nature 30% - Ice 15% - Strike 10%**
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235658588-98547893-5e1c-49a3-9a83-9c07dc57630c.png)
@@ -139,7 +139,7 @@ Weak **Nature 30% - Ice 15% - Strike 10%**
 
 Where: North-eastern Brimstone Sands
 
-Enemy **Ancient**  
+Enemy **Ancient** // **Ahnen**   
 Weak **Lightning 30% Strike 20% Void 15%** 
 
 ![grafik](https://user-images.githubusercontent.com/6178898/235658698-727ed7c7-b78a-431c-b1de-eb9071152896.png)
