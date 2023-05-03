@@ -1,4 +1,4 @@
 # new-world
 
 ## Chestruns
-[chestrun.md](chestruns)
+[chestrun.md](chestrun.md)
