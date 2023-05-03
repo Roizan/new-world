@@ -42,22 +42,22 @@ Gegner: Korrumpierte
 ## Seepocken und Schwarzpulver / Barnacles and Black Powder
 (Empfohlen für Stufe 60)  
 Gegner: Verlorene
-
-* [Guide](https://newworldfans.com/articles/barnacles-and-black-powder-expedition-guide)
-* [Videoguide](https://www.youtube.com/watch?v=nMFknhc1HAU)
+  
+* [Guide](https://newworldfans.com/articles/barnacles-and-black-powder-expedition-guide)  
+* [Videoguide](https://www.youtube.com/watch?v=nMFknhc1HAU)  
 
 ## Die Enneade  
 (Empfohlen für Stufe 60)  
 Gegner: Ahnen und Korrumpierte
-
+  
 * [Guide](https://newworldfans.com/articles/ennead-expedition-guide)
 
 ## Empyreum Schmiede / Empyreum Forge
 (Empfohlen für Stufe 60)  
 Gegner: Menschen (Varangianer)
-
-* [Guide](https://newworldfans.com/articles/empyrean-forge-expedition-guide)
-* [Videoguide](https://www.youtube.com/watch?v=th6B3IDei4g)
+  
+* [Guide](https://newworldfans.com/articles/empyrean-forge-expedition-guide)  
+* [Videoguide](https://www.youtube.com/watch?v=th6B3IDei4g)  
 
 
 
